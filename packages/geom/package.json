@@ -1,9 +1,9 @@
 {
-  "name": "geom",
+  "name": "@monorepo/geom",
   "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "common": "^1.0.0"
+    "@monorepo/common": "^1.0.0"
   }
 }
