@@ -1,6 +1,6 @@
 {
   "name": "@monorepo/geom",
-  "version": "1.0.1",
+  "version": "1.5.1",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
